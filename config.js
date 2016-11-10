@@ -7,4 +7,4 @@ var connectionPool = mysql.createPool({
     pass: '',
 });
 
-module.exports = connectionPool;
+module.exports = pool;
