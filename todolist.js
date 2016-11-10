@@ -71,7 +71,7 @@ var todoList = {
     */
 
 
-},
+};
 
 
-module.exports = todoList;
+    module.exports = todoList;

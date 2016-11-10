@@ -1,5 +1,5 @@
 var readline = require('readline');
-var todoList = ('./todolist');
+var todoList = require('./todolist');
 
 var rl = readline.createInterface({
     input: process.stdin,
