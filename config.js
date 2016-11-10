@@ -1,6 +1,6 @@
 var mysql = require('mysql');
 
-var connectionPool = mysql.createPool({
+var pool = mysql.createPool({
     host: 'localhost',
     database: 'gb_node',
     user: 'root',
